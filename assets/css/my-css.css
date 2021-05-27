@@ -1,12 +1,28 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}  
+
 .nav-color{
     background-color: #E83E8C;
 }
-
 
 .logo-nav{
     height: 53px;
 }
 
 .navbar-toggler{
-    color: #ffff !important;
+    border: 3px solid #ffff;
+}
+
+.header-color {
+    color: #707070;
+}
+
+.img-size-footer {
+    width: 53px;
+    height: 100px;
+}
+
+.fondo{
+    background-color: black;
 }
